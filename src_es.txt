@@ -1,0 +1,5 @@
+hola
+Gracias
+Si
+No
+¿Por qué?
